@@ -1,4 +1,4 @@
-# Welcome to FTQC wiki
+# Welcome to Cornucopia of Quantum Subroutines!
 
 ***
 

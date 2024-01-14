@@ -11,7 +11,7 @@ markdown_extensions:
       custom_fences:
         - name: openqasm
           class: openqasm
-          format: !!python/name:ftqcwiki.format_openqasm
+          format: !!python/name:qscornucopia.format_openqasm
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6

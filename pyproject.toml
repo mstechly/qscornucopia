@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "ftqc-wiki"
+name = "qscornucopia"
 version = "0.1.0"
 description = ""
-authors = ["Konrad Jałowiecki <dexter2206@gmail.com>"]
+authors = ["Konrad Jałowiecki <dexter2206@gmail.com>", "Michał Stęchły <michal.stechly@gmail.com>"]
 readme = "README.md"
-packages = [{include = "ftqcwiki"}]
+packages = [{include = "qscornucopia"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"

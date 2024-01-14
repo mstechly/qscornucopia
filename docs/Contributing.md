@@ -1,6 +1,6 @@
 # Contributing
 
-The FTQC Wiki works thanks to the contributions from people around the globe. If you see there's a subroutine missing, consider contributing it to the project!
+The Cornucopia of Quantum Subroutines works thanks to the contributions from people around the globe. If you see there's a subroutine missing, consider contributing it to the project!
 
 ## How does it work?
 
